@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "MySQL node application ",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "bamazon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develanton/bamazon.git"
+  },
+  "author": "Develanton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/develanton/bamazon/issues"
+  },
+  "homepage": "https://github.com/develanton/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0",
+    "table-master": "^1.0.3"
+  }
+}
